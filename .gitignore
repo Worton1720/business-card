@@ -1,0 +1,9 @@
+# Claude
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.claude-*
+.playwright-mcp/
+
+# Внутренние документы
+tz.md
